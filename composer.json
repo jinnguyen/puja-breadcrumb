@@ -1,0 +1,21 @@
+{
+  "name": "jinnguyen/puja-breadcrumb",
+  "description": "Puja-Breadcrumb is a simple class to manage the breadcrumbs",
+  "type": "library",
+  "license": "Apache License 2.0",
+  "keywords": ["Puja", "Breadcrumb"],
+  "authors": [
+    {
+      "name": "Jin Nguyen",
+      "email": "w2ajax@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+  },
+  "autoload": {
+      "psr-4": {
+        "Puja\\Breadcrumb\\": "src/"
+      }
+  }
+}
